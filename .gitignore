@@ -1,0 +1,19 @@
+# Virtual Environment
+.venv/
+venv/
+*.pyc
+
+# IDE files (e.g., VS Code)
+.vscode/
+
+# Build artifacts
+dist/
+node_modules/
+
+# --- AI Project Exclusions ---
+# Ignore large model files and data directory in upstyle_ai
+upstyle_ai/*.onnx
+upstyle_ai/*.data
+upstyle_ai/clothes_data/
+
+upstyle_ai/clothes_data/*jpg
