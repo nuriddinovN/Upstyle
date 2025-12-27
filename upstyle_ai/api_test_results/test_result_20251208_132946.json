@@ -1,0 +1,117 @@
+{
+  "test_metadata": {
+    "api_url": "https://fashionclip-api-ghrly4qhta-uc.a.run.app",
+    "test_time": "2025-12-08T13:29:46.869672",
+    "response_time_seconds": 1.0972199440002441,
+    "image_path": "/home/noor/A/projects/Upstyle/upstyle_ai/clothes_data/imgs/clothes8.jpg"
+  },
+  "analysis_result": {
+    "id": "3a1f9177-0187-48aa-9e4b-1779ee817239",
+    "filename": "clothes8.jpg",
+    "status": "success",
+    "category": {
+      "value": "blazer",
+      "confidence": 0.6724336743354797
+    },
+    "sub_category": {
+      "value": "button-down",
+      "confidence": 0.21104104816913605
+    },
+    "gender": {
+      "value": "female fashion",
+      "confidence": 0.8682149648666382
+    },
+    "primary_color": {
+      "value": "black",
+      "confidence": 0.8070713877677917
+    },
+    "secondary_color": {
+      "value": "black",
+      "confidence": 0.8573716282844543
+    },
+    "accent_color": {
+      "value": "silver",
+      "confidence": 0.37312230467796326
+    },
+    "pattern": {
+      "value": "embroidered",
+      "confidence": 0.28226518630981445
+    },
+    "material": {
+      "value": "satin",
+      "confidence": 0.24353183805942535
+    },
+    "fit": {
+      "value": "regular fit",
+      "confidence": 0.6279802322387695
+    },
+    "silhouette": {
+      "value": "peplum",
+      "confidence": 0.8794806599617004
+    },
+    "neckline": {
+      "value": "v-neck",
+      "confidence": 0.28747525811195374
+    },
+    "sleeve": {
+      "value": "3/4 sleeve",
+      "confidence": 0.3165072798728943
+    },
+    "length": {
+      "value": "midi length",
+      "confidence": 0.4093650281429291
+    },
+    "rise": {
+      "value": "low-rise",
+      "confidence": 0.7699491381645203
+    },
+    "closure_type": {
+      "value": "pullover",
+      "confidence": 0.353863388299942
+    },
+    "style": {
+      "value": "formalwear",
+      "confidence": 0.6776183843612671
+    },
+    "occasion": {
+      "value": "office wear",
+      "confidence": 0.9979766011238098
+    },
+    "season": {
+      "value": "spring",
+      "confidence": 0.5734178423881531
+    },
+    "body_shape": {
+      "value": "rectangle",
+      "confidence": 0.5972583293914795
+    },
+    "aesthetic_keywords": {
+      "value": "monochrome",
+      "confidence": 0.5343961715698242
+    },
+    "detail_features": {
+      "value": "embellished",
+      "confidence": 0.6200457215309143
+    },
+    "upcycling_potential": {
+      "value": "high",
+      "confidence": 0.3965824246406555
+    },
+    "upcycling_type": {
+      "value": "cut-and-sew",
+      "confidence": 0.8928967714309692
+    },
+    "repairability": {
+      "value": "easy to repair",
+      "confidence": 0.6703155040740967
+    },
+    "sustainability": {
+      "value": "recycled fabric",
+      "confidence": 0.983454704284668
+    },
+    "visible_accessories": {
+      "value": "tie",
+      "confidence": 0.36408135294914246
+    }
+  }
+}

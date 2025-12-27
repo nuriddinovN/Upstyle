@@ -4,7 +4,7 @@ import os
 
 # --- File Settings ---
 # Input: Path to the single image to be processed
-SINGLE_IMAGE_PATH = "/home/noor/A/projects/Upstyle/upstyle_ai/clothes_data/imgs/versace.png"
+SINGLE_IMAGE_PATH = "/home/noor/A/projects/Upstyle/upstyle_ai/clothes_data/imgs/test9.jpg"
 
 # Output: Directory to save the resulting JSON metadata
 OUTPUT_DIR = "/home/noor/A/projects/Upstyle/upstyle_ai/clothes_data/metadata"

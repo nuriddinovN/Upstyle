@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "252216303390",
+    "firebase_url": "https://upstyle-b4e37-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "upstyle-b4e37",
+    "storage_bucket": "upstyle-b4e37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252216303390:android:e003e86fe0f24bfa92f30f",
+        "android_client_info": {
+          "package_name": "com.kabil.up_style"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTe1BUiHld_YD0ixGrmYjv9NMDadcHdcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
