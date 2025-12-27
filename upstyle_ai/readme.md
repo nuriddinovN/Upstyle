@@ -72,16 +72,6 @@ curl -X POST -F "file=@/path/to/img.jpg" http://127.0.0.1:8000/analyze
 - data_pipeline.py — MindSpore transforms and batch pipeline.
 - models/ — contains ONNX artifact.
 
-## License
-Add your license file (e.g., MIT) as needed.
-
-(End)
-
-nuriddinovN: pls rewrite that in .md format 
-
-GitHub Copilot: GitHub Copilot
-
-Below is a concise Markdown version of data_pipeline.py describing purpose, behavior, and usage.
 
 # data_pipeline.md
 
