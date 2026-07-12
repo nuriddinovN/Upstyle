@@ -128,5 +128,4 @@ Upstyle directly supports:
 
 ## 📜 License
 
-This project is developed for the **Huawei ICT Innovation Competition**.  
 All rights reserved © 2025.
